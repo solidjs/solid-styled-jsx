@@ -1,6 +1,5 @@
 # Solid Styled JSX
 [![NPM Version](https://img.shields.io/npm/v/solid-styled-jsx.svg?style=flat)](https://www.npmjs.com/package/solid-styled-jsx)
-![](https://img.shields.io/librariesio/release/npm/solid-styled-jsx)
 ![](https://img.shields.io/npm/dm/solid-styled-jsx.svg?style=flat)
 
 This library is a wrapper to allow you to use Solid with Zeit's [styled-jsx](https://github.com/zeit/styled-jsx). It accomplishes this by using a babel transform to change the Style JSX element import to use Solid's version. From there simply add the plugin `solid-styled-jsx/babel` to your babel config and you are good to go. The plugin accepts the same options as it's `styled-jsx/babel` counterpart.
