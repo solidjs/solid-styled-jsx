@@ -1,7 +1,7 @@
 {
   "name": "solid-styled-jsx",
   "description": "Solid wrapper for Styled JSX",
-  "version": "0.26.3",
+  "version": "0.27.0",
   "author": "Ryan Carniato",
   "license": "MIT",
   "repository": {
@@ -19,10 +19,10 @@
     "babel-plugin-transform-rename-import": "^2.3.0"
   },
   "peerDependencies": {
-    "solid-js": "^0.23.0",
-    "styled-jsx": "^3.2.5"
+    "solid-js": "^1.0.0",
+    "styled-jsx": "^3.4.4"
   },
   "devDependencies": {
-    "solid-js": "^0.26.3"
+    "solid-js": "^1.0.0"
   }
 }

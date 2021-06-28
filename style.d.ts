@@ -1,6 +1,6 @@
 declare function JSXStyle(props: any): void;
 declare function flush(): [string, string][]
-declare global {
+declare module "solid-js" {
   namespace JSX {
     interface StyleHTMLAttributes<T> {
       jsx?: boolean;
