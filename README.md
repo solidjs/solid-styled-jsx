@@ -1,3 +1,7 @@
+<p>
+  <img width="100%" src="https://assets.solidjs.com/banner?project=Styled%20JSX&type=core" alt="Solid Styled JSX">
+</p>
+
 # Solid Styled JSX
 [![NPM Version](https://img.shields.io/npm/v/solid-styled-jsx.svg?style=flat)](https://www.npmjs.com/package/solid-styled-jsx)
 ![](https://img.shields.io/npm/dm/solid-styled-jsx.svg?style=flat)
