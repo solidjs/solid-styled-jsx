@@ -16,7 +16,7 @@ This library is a wrapper to allow you to use Solid with Zeit's [styled-jsx](htt
 To get the proper JSX types in your project simply import `solid-styled-jsx` one time at the root of your project.
 
 ```jsx
-import "solid-styled-jsx";
+import type {} from "solid-styled-jsx";
 ```
 
 ## Gist
